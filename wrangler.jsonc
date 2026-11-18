@@ -1,7 +1,7 @@
 {
 	"$schema": "./node_modules/wrangler/config-schema.json",
 	"compatibility_date": "2026-10-29",
-	"name": "example-com",
+	"name": "uetakeck-com",
 	"assets": {
 		"directory": "./assets/",
 		"not_found_handling": "404-page",
